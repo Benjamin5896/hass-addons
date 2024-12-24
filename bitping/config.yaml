@@ -12,7 +12,7 @@ arch:
 options:
   BITPING_EMAIL: ""
   BITPING_PASSWORD: ""
-  BITPING_MFA: " "
+  BITPING_MFA: ""
 schema:
   BITPING_EMAIL: str
   BITPING_PASSWORD: str
