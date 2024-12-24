@@ -1,5 +1,5 @@
 name: "Bitping"
-slug: "Bitping"
+slug: "bitping"
 description: "Earn money with your spare internet"
 version: "24.10.4-1"
 init: false
